@@ -23,7 +23,7 @@ result = func(
     arg2='another value',
 )
 
-result = func(
+result=func(
     arg1='some value',
     arg2='another value'
 )
